@@ -8,7 +8,7 @@
  * spinWords( "This is another test" )=> returns "This is rehtona test"
  */
 
-public class Main {
+public class SpinWords {
     public static void main(String[] args) {
 
         String result = spinWords("Welcome");
